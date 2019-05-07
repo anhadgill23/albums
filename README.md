@@ -1,0 +1,1 @@
+Playing with React Native to understand its workings.
